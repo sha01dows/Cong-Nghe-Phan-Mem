@@ -1,0 +1,11 @@
+.right-pannel{
+    background: rgb(232,242,255);
+    background: linear-gradient(209deg, rgba(232,242,255,1) 41%, rgba(255,195,218,1) 100%);
+}
+.link{
+    text-decoration: none;
+    color: rgb(14, 1, 7);
+}
+.link:hover{
+    color: rgb(61, 2, 20);
+}
